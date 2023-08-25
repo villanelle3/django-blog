@@ -1,1 +1,1 @@
-Blog w django
+Blog w Django.
